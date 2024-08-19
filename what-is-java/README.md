@@ -28,3 +28,9 @@ Today, Java is maintained by Oracle after it acquired Sun, but the problems Jame
 3. Architecture-neutral and portable
 4. High performance
 5. Interpreted, threaded, and dynamic
+
+### Duke
+
+Java has an official mascot, Duke. Say hey, he doesn't bite!
+
+![Duke, vaguely shaped like a Star Trek comm badge with hands, is waving at you!](./assets/duke-wave.png)

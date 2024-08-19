@@ -28,7 +28,7 @@ We'll learn more about all of Java's different data types soon, but these are th
 - `double`: A number with a decimal.
 - `String`: Any combination of letters and words. `String` is a class, so it begins with a capital letter unlike `int` and `double`.
 
-Variable names are written in camel case. This is different from how we defined the `HowdyPartner` class. In Java, it's conventional for a class name to start each word with an uppercase letter (even the first word).
+Variable names are written in lower camel case, similar to how we wrote methods - each word is joined so there are no spaces or characters between them, and every word after the first word starts with a capital letter.
 
 <div class="activity pair-programming">
   <h2 class="title">Variable Declaration Practice</h2>

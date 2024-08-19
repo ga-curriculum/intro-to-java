@@ -14,3 +14,7 @@ This module introduces the fundamentals of Java programming. Participants will l
 | [Getting Java to Run](../getting-java-to-run/README.md)   | 30 min | Create and run Java files from the command line. |
 | [Variable Declaration](../variable-declaration/README.md) | 30 min | Write the `main()` Java method.                  |
 | **Total content**                                         | 60 min |                                                  |
+
+## References
+
+📖 [Reference Materials](./references/README.md)

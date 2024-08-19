@@ -18,6 +18,10 @@ This module introduces the fundamentals of Java programming. Participants will l
 | [Variable Declaration](./variable-declaration/README.md)               | 20 min | Declare variables with primitive data types. |
 | **Total content**                                                      | 70 min |                                              |
 
+## References
+
+📖 [Reference Materials](./references/README.md)
+
 ## Internal
 
 ### Prerequisites

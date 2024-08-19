@@ -72,10 +72,10 @@ Finally, we can name our method. In this case, the `main()` method is absolutely
 
 Inside the parentheses, you'll notice that the method takes in one parameter: `String[] args`. `String` indicates the type, and the array brackets tell the method to accept a list of `String`s. The parameter is named `args` by convention. This array represents any command line arguments you pass when running the method - even though the app we're writing won't do anything with these arguments they must be included.
 
-Phew, all that for `Howdy Partner`? And we haven't even gotten to the one line of code that will do what we want: Print `Howdy, Partner!` to the console.
+This might be a lot to take in initially, but this syntax will become more manageable with practice. Let's write the one line of code that will do what we want: Print `Howdy, Partner!` to the console.
 
 <div class="activity solo-exercise">
-  <h2 class="title">Print <code>Howdy, Partner</code> to the console</h2>
+  <h2 class="title">Print <code>Howdy, Partner!</code> to the console</h2>
   <span class="minutes">2 min</span>
 </div>
 

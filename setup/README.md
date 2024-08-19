@@ -1,19 +1,37 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/my-first-java-setup.png)
+<h1>
+  <span class="headline">Intro to Java</span>
+  <span class="subhead">Setup</span>
+</h1>
 
-**Learning objective:** By the end of this lesson, students will be able to install Java for either MacOS or Windows. 
+<div class="timed-section">
+  <h2>Setup</h2>
+  <span class="minutes">5 min</span>
+</div>
 
-## Installing the JDK (5 min)
+Launch the IntelliJ IDEA application.
 
-Before we can write any Java code on our local machines, we need to install the Java Development Kit (JDK).
+Select the **New Project** option.
 
-The JDK is a package of tools for developing Java programs. It will run in the background of your computer as you're writing Java code in a text editor or IDE. It's available from Oracle, the company that manages the Java language.
+Name the project `into-to-java`.
 
-Installing JDK is one of the easiest things you'll do in this course:
+Create the project in the <code class="filepath">~/code/ga/lectures</code> directory.
 
-1. [Click here](https://www.oracle.com/technetwork/java/javase/downloads/index.html) to visit Oracle's website. Find the latest version of JDK at the top of the page.
-2. On the next page, accept the license agreement and select the file for your operating system.
-3. Follow the installation instructions when the file downloads.
+> ⚠️ Windows users, the <code class="filepath">lectures</code> directory is likely at this location on your device: <code class="filepath">C:\Users\username\code\ga\lectures</code> (replacing `username` with your username). Create the project in that directory instead.
 
-That's it! You're ready to write your first Java code.
+Ensure that the **Add sample code** option is not checked.
 
----
+After confirming the **New project** window looks similar to the screenshot below, select the **Create** button.
+
+![A new project being created with the appropriate values - intro-to-java is the project name, it's located in the ~/code/ga/lectures directory, and the add sample code option is has been unchecked.](./assets/new-project-complete.png)
+
+If everything goes according to plan, you'll see a new window like the one below.
+
+![Our brand new project created in IntelliJ IDEA](./assets/intro-to-java-project.png)
+
+Take the opportunity to note that the new project comes with a very basic file structure:
+
+- <code class="filepath">.idea</code> holds some workspace configuration settings for the IntelliJ IDEA app.
+- <code class="filepath">src</code> holds the Java code we write.
+- A <code class="filepath">.gitignore</code> file with some sensible defaults pre-configured.
+
+With that done, we're ready to write our first Java code!

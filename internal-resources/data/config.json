@@ -1,0 +1,181 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to Java",
+    "name": "intro-to-java",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "jda",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "What Is Java?",
+          "dirName": "what-is-java",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Writing Your First Java App",
+          "dirName": "writing-your-first-java-app",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Running Your First Java App",
+          "dirName": "running-your-first-java-app",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Variable Declaration",
+          "dirName": "variable-declaration",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "jsc",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "What Is Java?",
+          "dirName": "what-is-java",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Writing Your First Java App",
+          "dirName": "writing-your-first-java-app",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Running Your First Java App",
+          "dirName": "running-your-first-java-app",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Variable Declaration",
+          "dirName": "variable-declaration",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "What Is Java?",
+          "dirName": "what-is-java",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Writing Your First Java App",
+          "dirName": "writing-your-first-java-app",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Running Your First Java App",
+          "dirName": "running-your-first-java-app",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Variable Declaration",
+          "dirName": "variable-declaration",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

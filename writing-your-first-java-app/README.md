@@ -81,6 +81,8 @@ This might be a lot to take in initially, but this syntax will become more manag
 
 How do we do that? Take a moment to figure out how to print to the console by doing some independent research. You may want to use Google or an AI assistant.
 
+> 🧠 As you complete this activity, note that the semicolon character must be used at the end of each statement in Java.
+
 ## Comments
 
 A quick note on comments. In Java, we have two options for writing comments:

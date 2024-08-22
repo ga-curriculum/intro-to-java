@@ -50,25 +50,27 @@ Then, all Java programs require a `main()` method representing the program's ent
     }
 ```
 
-What's going on here?
+So what's going on here? Let's break down the syntax:
 
-### `public`
+![public static void main(String[] args) public is labeled with a 1, static is labeled with a 2, void is labeled with a 3, main() is labeled with a 4, and String[] args is labeled with a 5.](./assets/main-syntax.png)
+
+### 1. `public`
 
 First, the `public` keyword, used for the `HowdyPartner` class and the `main()` method, declares these to be available anywhere. On the other hand, a `private` method or class would only be available to other members of the same  class. You can find more details [here](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html).
 
-### `static`
+### 2. `static`
 
 Next, the `static` keyword indicates that this method belongs to the `HowdyPartner` class. The opposite of a `static` method would be an *instance* method, where the method belongs to the objects the class creates. To run an instance method, you must create a new class instance with the `new` keyword and call the method on the instantiated object.
 
-### `void`
+### 3. `void`
 
 `void` indicates the data type of the method's return value, which will be nothing at all in the case of this method. Methods in Java require you to describe the data type of the return value of a method in their definition to enable future type-checking.
 
-### `main()`
+### 4. `main()`
 
 Finally, we can name our method. In this case, the `main()` method is absolutely required in Java programs and must be named `main`. By convention, methods will be named in lower camel case - each word is joined so there are no spaces or characters between them, and every word after the first word starts with a capital letter.
 
-### `String[] args`
+### 5. `String[] args`
 
 Inside the parentheses, you'll notice that the method takes in one parameter: `String[] args`. `String` indicates the type, and the array brackets tell the method to accept a list of `String`s. The parameter is named `args` by convention. This array represents any command line arguments you pass when running the method - even though the app we're writing won't do anything with these arguments they must be included.
 

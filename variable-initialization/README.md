@@ -1,34 +1,44 @@
 <h1>
   <span class="headline">Intro to Java</span>
-  <span class="subhead">Variable Declaration</span>
+  <span class="subhead">Variable Initialization</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will know the syntax for declaring variables in Java.
 
 <div class="activity guided-walkthrough">
-  <h2 class="title">Variable declaration</h2>
+  <h2 class="title">Initializing variables</h2>
   <span class="minutes">10 min</span>
 </div>
 
-To start writing more complex apps, we'll have to declare variables at some point so that we're able to hold and reference data in our programs.
+To start writing more complex apps, we'll have to initialize variables at some point so that we're able to hold and reference data in our programs.
 
-Creating a variable in Java requires us to define the data type of that variable by providing the type before the name of the variable.
+Creating a variable in Java requires us to define the data type of that variable by providing the type before the name of the variable. Here's the syntax:
 
-Here are some examples:
+![int theAnswerToEverything = 42; int is labeled with 1, theAnswerToEverything is labeled with 2, and 42 is labeled with 3](./assets/variable-initialization-syntax.png)
+
+1. The data type that will be stored in the declared variable.
+2. The identifier (name) of the variable.
+3. The value to be assigned to the variable. The data type of this value must match the data type we provided earlier.
+
+Here are some more examples:
 
 ```java
-int theAnswerToEverything = 42;
 double priceOfWater = 3.99;
 String bestLanguage = "Java";
 ```
 
-In Java, the standard practice is to initialize a value to a variable when it is created.
+In Java, the standard practice is to initialize a value to a variable when it is declared if possible, but you are able to declare a variable without assigning anything to it, then initialize it later.
 
-We'll learn more about all of Java's different data types soon, but these are the ones we see here:
+```java
+int iWillBeSomethingOneDay
+iWillBeSomethingOneDay = 100;
+```
+
+When you do this it may be initialized with a default value depending on what data type it is. We'll learn more about all of Java's different data types soon, but these are the ones we see above:
 
 - `int`: Short for integer; a whole number.
 - `double`: A number with a decimal.
-- `String`: Any combination of letters and words. `String` is a class, so it begins with a capital letter unlike `int` and `double`.
+- `String`: Any combination of letters and words. `String` is an object data type, so it begins with a capital letter unlike `int` and `double`.
 
 ### Naming variables
 

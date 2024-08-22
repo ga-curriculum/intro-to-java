@@ -18,11 +18,13 @@ Create the project in the <code class="filepath">~/code/ga/lectures</code> direc
 
 > ⚠️ Windows users, the <code class="filepath">lectures</code> directory is likely at this location on your device: <code class="filepath">C:\Users\username\code\ga\lectures</code> (replacing `username` with your username). Create the project in that directory instead.
 
+Ensure the JDK used is **temurin-17**. This should be the default setting when starting a new project. If it's not, alert your instructor.
+
 Ensure that the **Add sample code** option is not checked.
 
 After confirming the **New project** window looks similar to the screenshot below, select the **Create** button.
 
-![A new project being created with the appropriate values - intro-to-java is the project name, it's located in the ~/code/ga/lectures directory, and the add sample code option is has been unchecked.](./assets/new-project-complete.png)
+![A new project being created with the appropriate values - intro-to-java is the project name, it's located in the ~/code/ga/lectures directory, the JDK is temurin-17, and the add sample code option is has been unchecked.](./assets/new-project-complete.png)
 
 If everything goes according to plan, you'll see a new window like the one below.
 

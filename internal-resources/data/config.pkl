@@ -27,7 +27,7 @@ courses {
       mls.writingYourFirstJavaApp
       mls.runningYourFirstJavaApp
       // You can make course-specific adjustments using a syntax like this:
-      mls.variableDeclaration
+      mls.variableInitialization
     }
   }
   new {
@@ -40,7 +40,7 @@ courses {
       mls.writingYourFirstJavaApp
       mls.runningYourFirstJavaApp
       // You can make course-specific adjustments using a syntax like this:
-      mls.variableDeclaration
+      mls.variableInitialization
     }
   }
   new {
@@ -53,7 +53,7 @@ courses {
       mls.writingYourFirstJavaApp
       mls.runningYourFirstJavaApp
       // You can make course-specific adjustments using a syntax like this:
-      mls.variableDeclaration
+      mls.variableInitialization
     }
   }
 }

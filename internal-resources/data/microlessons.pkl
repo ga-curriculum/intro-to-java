@@ -30,9 +30,9 @@ runningYourFirstJavaApp = new Template.Microlesson {
   videoUrl = ""
 }
 
-variableDeclaration = new Template.Microlesson {
-  friendlyName = "Variable Declaration"
-  dirName = "variable-declaration"
+variableInitialization = new Template.Microlesson {
+  friendlyName = "Variable Initialization"
+  dirName = "variable-initialization"
   type = "Content"
   videoUrl = ""
 }

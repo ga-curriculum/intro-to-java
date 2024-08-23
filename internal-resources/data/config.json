@@ -38,8 +38,8 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Variable Declaration",
-          "dirName": "variable-declaration",
+          "friendlyName": "Variable Initialization",
+          "dirName": "variable-initialization",
           "type": "Content",
           "videoUrl": ""
         }
@@ -94,8 +94,8 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Variable Declaration",
-          "dirName": "variable-declaration",
+          "friendlyName": "Variable Initialization",
+          "dirName": "variable-initialization",
           "type": "Content",
           "videoUrl": ""
         }
@@ -150,8 +150,8 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Variable Declaration",
-          "dirName": "variable-declaration",
+          "friendlyName": "Variable Initialization",
+          "dirName": "variable-initialization",
           "type": "Content",
           "videoUrl": ""
         }

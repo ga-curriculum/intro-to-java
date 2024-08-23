@@ -27,14 +27,14 @@ double priceOfWater = 3.99;
 String bestLanguage = "Java";
 ```
 
-In Java, the standard practice is to initialize a value to a variable when it is declared if possible, but you are able to declare a variable without assigning anything to it, then initialize it later.
+In Java, the standard practice is to initialize a value to a variable when it is declared if possible, but you are able to declare a variable without assigning anything to it and then initialize it later.
 
 ```java
 int iWillBeSomethingOneDay
 iWillBeSomethingOneDay = 100;
 ```
 
-When you do this it may be initialized with a default value depending on what data type it is. We'll learn more about all of Java's different data types soon, but these are the ones we see above:
+When you do this, it may be initialized with a default value depending on its data type. We'll learn more about all of Java's different data types soon, but these are the ones we see above:
 
 - `int`: Short for integer; a whole number.
 - `double`: A number with a decimal.

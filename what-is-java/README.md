@@ -17,9 +17,9 @@ Java is a programming language that was first released in 1996. It was developed
 - Java is class-based and object-oriented from the ground up, not an optional added layer.
 - Java supports multithreading at the language level to take advantage of modern hardware.
 
-These features led to Java's quick adoption and sustained popularity, especially in enterprise environments. [GitHub's Octoverse 2023 report](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/#the-most-popular-programming-languages) shows Java as the fourth most popular language on GitHub.
+These features led to Java's quick adoption and sustained popularity, especially in enterprise environments. [GitHub's Octoverse 2024 report](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/#the-most-popular-programming-languages) shows Java as the fourth most popular language on GitHub.
 
-![The top 10 programming languages on GitHub in 2024. Java is in the fourth position.](./assets/github-octoverse-2023-top-languages.png)
+![The top 10 programming languages on GitHub in 2024. Java is in the fourth position.](./assets/github-octoverse-2024-top-languages.png)
 
 Today, Java is maintained by Oracle after it acquired Sun, but the problems James originally intended to solve still drive [the five core design goals of Java language](https://www.oracle.com/java/technologies/introduction-to-java.html):
 

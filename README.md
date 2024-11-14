@@ -28,6 +28,12 @@ This module introduces the fundamentals of Java programming. Participants will l
 
 - Java Installfest
 
+### Course landing pages
+
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-java/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-java/canvas-landing-pages/JCD.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-java/canvas-landing-pages/fallback.html)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)

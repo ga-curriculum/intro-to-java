@@ -5,10 +5,7 @@
 
 **Learning objective:** By the end of this lesson, students will know the syntax for declaring variables in Java.
 
-<div class="activity guided-walkthrough">
-  <h2 class="title">Initializing variables</h2>
-  <span class="minutes">10 min</span>
-</div>
+## Initializing variables
 
 To start writing more complex apps, we'll have to initialize variables at some point so that we're able to hold and reference data in our programs.
 

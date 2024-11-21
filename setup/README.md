@@ -3,11 +3,6 @@
   <span class="subhead">Setup</span>
 </h1>
 
-<div class="timed-section">
-  <h2>Setup</h2>
-  <span class="minutes">5 min</span>
-</div>
-
 Launch the IntelliJ IDEA application.
 
 Select the **New Project** option.

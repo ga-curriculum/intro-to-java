@@ -5,10 +5,7 @@
 
 **Learning objective**: By the end of this lesson, students will be able to describe the role of Java in software development, some of its unique qualities as a language, and its significance in the software industry.
 
-<div class="timed-section">
-  <h2>What is Java?</h2>
-  <span class="minutes">10 min</span>
-</div>
+## What is Java?
 
 Java is a programming language that was first released in 1996. It was developed at Sun Microsystems by [James Gosling](https://en.wikipedia.org/wiki/James_Gosling). He created it after seeing teams struggle with using the C and C++ languages effectively and set out to solve the shortcomings he perceived with those languages. Those solutions became a few of Java's headline features:
 

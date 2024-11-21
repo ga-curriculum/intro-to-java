@@ -5,10 +5,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to execute compiled Java files in the terminal.
 
-<div class="activity guided-walkthrough">
-  <h2 class="title">Running our file</h2>
-  <span class="minutes">10 min</span>
-</div>
+## Running our file
 
 Now that our function is ready to roll, how can we get it to run? With Java, we have two steps to complete:
 

@@ -9,8 +9,8 @@ This module introduces the fundamentals of Java programming. Participants will l
 
 ## Content
 
-| Lesson                                                                 | Time   | Skills                                       |
-|------------------------------------------------------------------------|--------|----------------------------------------------|
+| Lesson | Est. Delivery Time | Skills |
+| ------ |:------------------:| ------ |
 | [What is Java?](./what-is-java/README.md)                              | 10 min | Learn what Java is and why it's used.        |
 | [Setup](./setup/README.md)                                             | 5 min  | Setup the development environment.           |
 | [Writing Your First Java App](./writing-your-first-java-app/README.md) | 25 min | Create a Java application.                   |
@@ -37,6 +37,8 @@ This module introduces the fundamentals of Java programming. Participants will l
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 

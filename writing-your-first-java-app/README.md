@@ -5,10 +5,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to create Java files from the command line and construct a basic Java app.
 
-<div class="activity guided-walkthrough">
-  <h2 class="title">Howdy Partner</h2>
-  <span class="minutes">15 min</span>
-</div>
+## Howdy Partner
 
 We'll build a classic app to get up to speed with any language - Howdy, Partner. We need a file to work in though, let's create one in IntelliJ's built-in terminal.
 
@@ -104,4 +101,4 @@ A quick note on comments. In Java, we have two options for writing comments:
   <span class="minutes">5 min</span>
 </div>
 
-Jump back into `HowdyPartner.java` and add comments to your code explaining what the `class` definition means and what the `main()` method does in your own words, along with describing the syntax for each.
+Jump back into <code class="filepath">HowdyPartner.java</code> and add comments to your code explaining what the `class` definition means and what the `main()` method does in your own words, along with describing the syntax for each.

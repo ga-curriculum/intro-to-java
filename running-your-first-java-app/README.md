@@ -3,7 +3,7 @@
   <span class="subhead">Running Your First Java App</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to execute compiled Java files in the terminal.
+**Learning objective:** By the end of this lesson, students will be able to summarize the steps required to execute their compiled Java files in the terminal, enabling their applications to run.
 
 ## Running our file
 

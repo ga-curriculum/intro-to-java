@@ -3,7 +3,7 @@
   <span class="subhead">Variable Initialization</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will know the syntax for declaring variables in Java.
+**Learning objective:** By the end of this lesson, students will be able to identify the syntax used to declare variables in Java allowing data to be easily referenced in an application.
 
 ## Initializing variables
 

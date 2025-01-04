@@ -20,4 +20,4 @@ This module introduces the fundamentals of Java programming. Participants will l
 
 ## References
 
-📖 [Reference Materials](./references/README.md)
+📖 [Reference Materials](../references/README.md)

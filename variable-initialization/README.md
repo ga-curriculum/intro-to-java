@@ -61,3 +61,9 @@ With a partner, take seven minutes to write these variables and print them to th
 - The price of a cup of coffee at a local cafe in your area.
 
 We'll have a few pairs demo what they did when they're done.
+
+🏗️ **Under Construction**
+
+We are constantly working to improve our resources for instructors and students.
+
+**Have something to contribute to this Instructor Guide?** [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md).
